@@ -1,11 +1,11 @@
 {
-  "name": "jsonresume-theme-short",
+  "name": "jsonresume-theme-laconic",
   "version": "0.1.7",
   "description": "Simple to the point theme for JSON Resume",
-  "author": "Graeme Maciver",
+  "author": "Sören König",
   "repository": {
     "type": "git",
-    "url": "https://github.com/isnotahippy/jsonresume-theme-short"
+    "url": "https://github.com/skoenig/jsonresume-theme-laconic"
   },
   "license": "MIT",
   "dependencies": {
