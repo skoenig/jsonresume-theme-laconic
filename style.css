@@ -28,6 +28,7 @@ ul {
 
 section {
     margin: 1em 0 1em;
+    page-break-inside: avoid;
 }
 
 blockquote {
@@ -164,4 +165,9 @@ section h2 {
 
 #education .dates {
     float: right;
+}
+
+@page {
+    size: A4; /* Change from the default size of A4 */
+    margin: 1cm 2cm; /* Set margin on each page */
 }
