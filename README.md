@@ -1,4 +1,4 @@
-Fork of [Graeme Maciver's Short Theme](http://github.com/isnotahippy/jsonresume-theme-short) for [JSONResume](https://jsonresume.org/).
+This is originally a fork of [Graeme Maciver's Short Theme](http://github.com/isnotahippy/jsonresume-theme-short) for [JSONResume](https://jsonresume.org/). Since [GitHub does not support multi forks](https://github.com/orgs/community/discussions/23839) and I want to work on a different theme, the repository has been re-uploaded here.
 
 ## Development
 
